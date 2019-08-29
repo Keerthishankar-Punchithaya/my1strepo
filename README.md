@@ -1,2 +1,4 @@
 # my1strepo
-this is my first repo
+# lol
+* this is my first repo 
+## jgvy
